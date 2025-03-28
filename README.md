@@ -1,4 +1,4 @@
-# Command-Handler-
+# Command Handler Template
 Basic command handling API in C
 
 # TODO:

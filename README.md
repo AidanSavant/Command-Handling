@@ -33,7 +33,7 @@ int main(void) {
 ```
 
 # Main output
-```bash
+```f#
 [INFO] main() main.c:11  | Inserting command handlers!
 [INFO] main() main.c:17  | Command handlers inserted successfully!
 [INFO] hi() src/cmd_handler/commands/commands.c:5  | Hello

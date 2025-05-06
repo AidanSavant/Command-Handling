@@ -1,5 +1,5 @@
 # Command Handler Template
-Basic command handling API in C.
+Basic example of command handling API in C using a generic hashmap.
 
 # Example
 ```c
